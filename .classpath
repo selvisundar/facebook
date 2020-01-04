@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/.metadata/.mylyn/repositories.xml.zip"/>
+	<classpathentry kind="lib" path="E:/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/jar_files (1)/poi-ooxml-schemas-3.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/jar_files (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
